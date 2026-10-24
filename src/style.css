@@ -1,0 +1,5 @@
+body, .v-application { font-family: 'Barlow', sans-serif !important; }
+h1, h2, h3, .display { font-family: 'Barlow Condensed', sans-serif; letter-spacing: .02em; }
+.hero-img { width: 59px; height: 33px; border-radius: 3px; object-fit: cover; }
+.item-img { width: 40px; height: 29px; border-radius: 3px; object-fit: cover; }
+.num { font-variant-numeric: tabular-nums; }
